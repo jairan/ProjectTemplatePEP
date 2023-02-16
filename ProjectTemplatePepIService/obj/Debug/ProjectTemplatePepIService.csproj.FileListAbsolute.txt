@@ -1,0 +1,9 @@
+C:\Users\cristiano.santos\source\repos\ProjectTemplatePEP\ProjectTemplatePepIService\bin\Debug\ProjectTemplates\CSharp\1033\ProjectTemplatePepIService.zip
+C:\Users\cristiano.santos\source\repos\ProjectTemplatePEP\ProjectTemplatePepIService\obj\Debug\ProjectTemplatePepIService.csproj.AssemblyReference.cache
+C:\Users\cristiano.santos\source\repos\ProjectTemplatePEP\ProjectTemplatePepIService\obj\Debug\_EmptyResource.resources
+C:\Users\cristiano.santos\source\repos\ProjectTemplatePEP\ProjectTemplatePepIService\obj\Debug\ProjectTemplatePepIService.csproj.GenerateResource.cache
+C:\Users\cristiano.santos\source\repos\ProjectTemplatePEP\ProjectTemplatePepIService\obj\Debug\ProjectTemplatePepIService.csproj.CoreCompileInputs.cache
+C:\Users\cristiano.santos\source\repos\ProjectTemplatePEP\ProjectTemplatePepIService\obj\Debug\CSharp\1033\ProjectTemplatePepIService.zip
+C:\Users\cristiano.santos\source\repos\ProjectTemplatePEP\ProjectTemplatePepIService\obj\Debug\ProjectTemplatePepIService.dll
+C:\Users\cristiano.santos\source\repos\ProjectTemplatePEP\ProjectTemplatePepIService\obj\Debug\ProjectTemplatePepIService.pdb
+C:\Users\cristiano.santos\source\repos\ProjectTemplatePEP\ProjectTemplatePepIService\obj\Debug\ProjectTemplatePepIService.Resources.resources

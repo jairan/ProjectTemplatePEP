@@ -1,0 +1,107 @@
+﻿<VSTemplateManifest Version="1.0" Locale="1033" xmlns="http://schemas.microsoft.com/developer/vstemplatemanifest/2015">
+  <VSTemplateContainer TemplateType="Project">
+    <RelativePathOnDisk>CSharp\1033\ProjectTemplatePepApi</RelativePathOnDisk>
+    <TemplateFileName>ProjectTemplatePepApi.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <Name>PepApi</Name>
+        <Description>Cria projeto padrão Pep Api</Description>
+        <Icon>ProjectTemplatePepApi.png</Icon>
+        <ProjectType>CSharp</ProjectType>
+        <LanguageTag>csharp</LanguageTag>
+        <ProjectTypeTag>Pep</ProjectTypeTag>
+        <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
+        <SortOrder>1000</SortOrder>
+        <TemplateID>06fb4d8e-a8d8-4eb3-9d7f-742094bfdfc7</TemplateID>
+        <CreateNewFolder>true</CreateNewFolder>
+        <DefaultName>RM.Pep.Dominio.Api</DefaultName>
+        <ProvideDefaultName>true</ProvideDefaultName>
+        <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+  <VSTemplateContainer TemplateType="Project">
+    <RelativePathOnDisk>CSharp\1033\ProjectTemplatePepIService</RelativePathOnDisk>
+    <TemplateFileName>ProjectTemplatePepIService.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <Name>PepIService</Name>
+        <Description>Cria projeto padrão Pep IService</Description>
+        <Icon>ProjectTemplatePepIService.png</Icon>
+        <ProjectType>CSharp</ProjectType>
+        <LanguageTag>csharp</LanguageTag>
+        <ProjectTypeTag>Pep</ProjectTypeTag>
+        <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
+        <SortOrder>1000</SortOrder>
+        <TemplateID>d56ebbbe-4e70-493c-89e1-91bb7c26a2ce</TemplateID>
+        <CreateNewFolder>true</CreateNewFolder>
+        <DefaultName>RM.Pep.Dominio.IService</DefaultName>
+        <ProvideDefaultName>true</ProvideDefaultName>
+        <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+  <VSTemplateContainer TemplateType="Project">
+    <RelativePathOnDisk>CSharp\1033\ProjectTemplatePepServerNegocio</RelativePathOnDisk>
+    <TemplateFileName>ProjectTemplatePepServerNegocio.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <Name>PepServerNegocio</Name>
+        <Description>Cria projeto padrão Pep Server Negocio</Description>
+        <Icon>ProjectTemplatePepServerNegocio.png</Icon>
+        <ProjectType>CSharp</ProjectType>
+        <LanguageTag>csharp</LanguageTag>
+        <ProjectTypeTag>Pep</ProjectTypeTag>
+        <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
+        <SortOrder>1000</SortOrder>
+        <TemplateID>82ae6a21-41c5-45d7-af65-b2ba0b732632</TemplateID>
+        <CreateNewFolder>true</CreateNewFolder>
+        <DefaultName>RM.Pep.Dominio.Server.Negocio</DefaultName>
+        <ProvideDefaultName>true</ProvideDefaultName>
+        <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+  <VSTemplateContainer TemplateType="Project">
+    <RelativePathOnDisk>CSharp\1033\ProjectTemplatePepServer</RelativePathOnDisk>
+    <TemplateFileName>ProjectTemplatePepServer.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <Name>PepServer</Name>
+        <Description>Cria projeto padrão Pep Server</Description>
+        <Icon>ProjectTemplatePepServer.png</Icon>
+        <ProjectType>CSharp</ProjectType>
+        <LanguageTag>csharp</LanguageTag>
+        <ProjectTypeTag>Pep</ProjectTypeTag>
+        <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
+        <SortOrder>1000</SortOrder>
+        <TemplateID>538dc3fc-e6b9-499b-a43e-69553b7b5146</TemplateID>
+        <CreateNewFolder>true</CreateNewFolder>
+        <DefaultName>RM.Pep.Dominio.Server</DefaultName>
+        <ProvideDefaultName>true</ProvideDefaultName>
+        <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+  <VSTemplateContainer TemplateType="Project">
+    <RelativePathOnDisk>CSharp\1033\ProjectTemplatePepTesteUnitario</RelativePathOnDisk>
+    <TemplateFileName>ProjectTemplatePepTesteUnitario.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <Name>PepTesteUnitario</Name>
+        <Description>Cria projeto padrão Pep TesteUnitario</Description>
+        <Icon>ProjectTemplatePepTesteUnitario.png</Icon>
+        <ProjectType>CSharp</ProjectType>
+        <LanguageTag>csharp</LanguageTag>
+        <ProjectTypeTag>Pep</ProjectTypeTag>
+        <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
+        <SortOrder>1000</SortOrder>
+        <TemplateID>0f4f6dc6-713e-4f91-acc7-dec9acfce6f9</TemplateID>
+        <CreateNewFolder>true</CreateNewFolder>
+        <DefaultName>RM.Pep.Dominio.TesteUnitario</DefaultName>
+        <ProvideDefaultName>true</ProvideDefaultName>
+        <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+</VSTemplateManifest>

@@ -1,0 +1,8 @@
+C:\Users\cristiano.santos\source\repos\ProjectTemplatePEP\ProjectTemplatePepTesteUnitario\bin\Debug\ProjectTemplates\CSharp\1033\ProjectTemplatePepTesteUnitario.zip
+C:\Users\cristiano.santos\source\repos\ProjectTemplatePEP\ProjectTemplatePepTesteUnitario\obj\Debug\ProjectTemplatePepTesteUnitario.csproj.AssemblyReference.cache
+C:\Users\cristiano.santos\source\repos\ProjectTemplatePEP\ProjectTemplatePepTesteUnitario\obj\Debug\_EmptyResource.resources
+C:\Users\cristiano.santos\source\repos\ProjectTemplatePEP\ProjectTemplatePepTesteUnitario\obj\Debug\ProjectTemplatePepTesteUnitario.csproj.GenerateResource.cache
+C:\Users\cristiano.santos\source\repos\ProjectTemplatePEP\ProjectTemplatePepTesteUnitario\obj\Debug\ProjectTemplatePepTesteUnitario.csproj.CoreCompileInputs.cache
+C:\Users\cristiano.santos\source\repos\ProjectTemplatePEP\ProjectTemplatePepTesteUnitario\obj\Debug\CSharp\1033\ProjectTemplatePepTesteUnitario.zip
+C:\Users\cristiano.santos\source\repos\ProjectTemplatePEP\ProjectTemplatePepTesteUnitario\obj\Debug\ProjectTemplatePepTesteUnitario.dll
+C:\Users\cristiano.santos\source\repos\ProjectTemplatePEP\ProjectTemplatePepTesteUnitario\obj\Debug\ProjectTemplatePepTesteUnitario.pdb

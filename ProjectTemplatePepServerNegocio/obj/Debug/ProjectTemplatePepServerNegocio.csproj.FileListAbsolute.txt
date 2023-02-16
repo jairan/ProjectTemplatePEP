@@ -1,0 +1,9 @@
+C:\Users\cristiano.santos\source\repos\ProjectTemplatePEP\ProjectTemplatePepServerNegocio\bin\Debug\ProjectTemplates\CSharp\1033\ProjectTemplatePepServerNegocio.zip
+C:\Users\cristiano.santos\source\repos\ProjectTemplatePEP\ProjectTemplatePepServerNegocio\obj\Debug\ProjectTemplatePepServerNegocio.csproj.AssemblyReference.cache
+C:\Users\cristiano.santos\source\repos\ProjectTemplatePEP\ProjectTemplatePepServerNegocio\obj\Debug\_EmptyResource.resources
+C:\Users\cristiano.santos\source\repos\ProjectTemplatePEP\ProjectTemplatePepServerNegocio\obj\Debug\ProjectTemplatePepServerNegocio.csproj.GenerateResource.cache
+C:\Users\cristiano.santos\source\repos\ProjectTemplatePEP\ProjectTemplatePepServerNegocio\obj\Debug\ProjectTemplatePepServerNegocio.csproj.CoreCompileInputs.cache
+C:\Users\cristiano.santos\source\repos\ProjectTemplatePEP\ProjectTemplatePepServerNegocio\obj\Debug\CSharp\1033\ProjectTemplatePepServerNegocio.zip
+C:\Users\cristiano.santos\source\repos\ProjectTemplatePEP\ProjectTemplatePepServerNegocio\obj\Debug\ProjectTemplatePepServerNegocio.dll
+C:\Users\cristiano.santos\source\repos\ProjectTemplatePEP\ProjectTemplatePepServerNegocio\obj\Debug\ProjectTemplatePepServerNegocio.pdb
+C:\Users\cristiano.santos\source\repos\ProjectTemplatePEP\ProjectTemplatePepServerNegocio\obj\Debug\ProjectTemplatePepServerNegocio.Resources.resources

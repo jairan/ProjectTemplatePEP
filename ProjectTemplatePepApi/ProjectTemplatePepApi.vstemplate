@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VSTemplate Version="3.0.0" Type="Project" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" xmlns:sdk="http://schemas.microsoft.com/developer/vstemplate-sdkextension/2010">
+	<TemplateData>
+		<Name>PepApi</Name>
+		<Description>Cria projeto padrão Pep Api</Description>
+		<Icon>ProjectTemplatePepApi.png</Icon>
+		<ProjectType>CSharp</ProjectType>		
+		<LanguageTag>csharp</LanguageTag>
+		<ProjectTypeTag>Pep</ProjectTypeTag>
+		<RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
+		<SortOrder>1000</SortOrder>
+		<TemplateID>06fb4d8e-a8d8-4eb3-9d7f-742094bfdfc7</TemplateID>
+		<CreateNewFolder>true</CreateNewFolder>
+		<DefaultName>RM.Pep.Dominio.Api</DefaultName>
+		<ProvideDefaultName>true</ProvideDefaultName>
+		<NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+	</TemplateData>
+	<TemplateContent>
+		<Project File="ProjectTemplate.csproj" ReplaceParameters="true">
+			<ProjectItem ReplaceParameters="true" TargetFileName="Properties\AssemblyInfo.cs">AssemblyInfo.cs</ProjectItem>
+			<ProjectItem ReplaceParameters="true" TargetFileName="Pep$dominio$Controller.cs">PepTemplateController.cs</ProjectItem>
+			<ProjectItem ReplaceParameters="true" TargetFileName="Properties\Resources.Designer.cs" OpenInEditor="true">Resources.Designer.cs</ProjectItem>
+			<ProjectItem ReplaceParameters="true" TargetFileName="Properties\Resources.resx" OpenInEditor="true">Resources.resx</ProjectItem>
+		</Project>
+		<CustomParameters>
+			<CustomParameter Name="$prefixoprojeto$" Value="RMPep"/>
+			<CustomParameter Name="$dominio$" Value="Entidade"/>
+			<CustomParameter Name="$instanciadominio$" Value="instanciaDominio"/>
+		</CustomParameters>
+	</TemplateContent>
+	<WizardExtension>
+		<Assembly>ProjectTemplatePepWizard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=d1c9fe7bc8ab6778</Assembly>
+		<FullClassName>ProjectTemplatePepWizard.WizardImplementation</FullClassName>
+	</WizardExtension>
+</VSTemplate>

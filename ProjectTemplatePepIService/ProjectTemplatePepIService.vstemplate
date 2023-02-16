@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VSTemplate Version="3.0.0" Type="Project" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" xmlns:sdk="http://schemas.microsoft.com/developer/vstemplate-sdkextension/2010">
+	<TemplateData>
+		<Name>PepIService</Name>
+		<Description>Cria projeto padrão Pep IService</Description>
+		<Icon>ProjectTemplatePepIService.png</Icon>
+		<ProjectType>CSharp</ProjectType>
+		<LanguageTag>csharp</LanguageTag>
+		<ProjectTypeTag>Pep</ProjectTypeTag>
+		<RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
+		<SortOrder>1000</SortOrder>
+		<TemplateID>d56ebbbe-4e70-493c-89e1-91bb7c26a2ce</TemplateID>
+		<CreateNewFolder>true</CreateNewFolder>
+		<DefaultName>RM.Pep.Dominio.IService</DefaultName>
+		<ProvideDefaultName>true</ProvideDefaultName>
+		<NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+	</TemplateData>
+	<TemplateContent>
+		<Project File="ProjectTemplate.csproj" ReplaceParameters="true">
+			<ProjectItem ReplaceParameters="true" TargetFileName="Properties\AssemblyInfo.cs">AssemblyInfo.cs</ProjectItem>
+			<ProjectItem ReplaceParameters="true" TargetFileName="Interface\IPep$dominio$ApiServer.cs" OpenInEditor="true">IPepTemplateApiServer.cs</ProjectItem>
+			<ProjectItem ReplaceParameters="true" TargetFileName="Interface\IPep$dominio$Modulo.cs" OpenInEditor="true">IPepTemplateModulo.cs</ProjectItem>
+			<ProjectItem ReplaceParameters="true" TargetFileName="Model\Pep$dominio$UIModel.cs" OpenInEditor="true">PepTemplateUIModel.cs</ProjectItem>
+			<ProjectItem ReplaceParameters="true" TargetFileName="Properties\Resources.Designer.cs" OpenInEditor="true">Resources.Designer.cs</ProjectItem>
+			<ProjectItem ReplaceParameters="true" TargetFileName="Properties\Resources.resx" OpenInEditor="true">Resources.resx</ProjectItem>
+		</Project>
+		<CustomParameters>
+			<CustomParameter Name="$prefixoprojeto$" Value="RMPep"/>
+			<CustomParameter Name="$dominio$" Value="Entidade"/>
+			<CustomParameter Name="$instanciadominio$" Value="instanciaDominio"/>
+		</CustomParameters>
+	</TemplateContent>
+	<WizardExtension>
+		<Assembly>ProjectTemplatePepWizard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=d1c9fe7bc8ab6778</Assembly>
+		<FullClassName>ProjectTemplatePepWizard.WizardImplementation</FullClassName>
+	</WizardExtension>
+</VSTemplate>

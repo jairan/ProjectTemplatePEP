@@ -1,0 +1,153 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\cristiano.santos\\source\\repos\\ProjectTemplatePEP\\MyProjectWizard\\MyProjectWizard.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\cristiano.santos\\source\\repos\\ProjectTemplatePEP\\MyProjectWizard\\MyProjectWizard.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cristiano.santos\\source\\repos\\ProjectTemplatePEP\\MyProjectWizard\\MyProjectWizard.csproj",
+        "projectName": "MyProjectWizard",
+        "projectPath": "C:\\Users\\cristiano.santos\\source\\repos\\ProjectTemplatePEP\\MyProjectWizard\\MyProjectWizard.csproj",
+        "packagesPath": "C:\\Users\\cristiano.santos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cristiano.santos\\source\\repos\\ProjectTemplatePEP\\MyProjectWizard\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\cristiano.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\cristiano.santos\\source\\repos\\ProjectTemplatePEP\\ProjectTemplatePepApi\\ProjectTemplatePepApi.csproj": {
+                "projectPath": "C:\\Users\\cristiano.santos\\source\\repos\\ProjectTemplatePEP\\ProjectTemplatePepApi\\ProjectTemplatePepApi.csproj"
+              },
+              "C:\\Users\\cristiano.santos\\source\\repos\\ProjectTemplatePEP\\ProjectTemplatePepIService\\ProjectTemplatePepIService.csproj": {
+                "projectPath": "C:\\Users\\cristiano.santos\\source\\repos\\ProjectTemplatePEP\\ProjectTemplatePepIService\\ProjectTemplatePepIService.csproj"
+              },
+              "C:\\Users\\cristiano.santos\\source\\repos\\ProjectTemplatePEP\\ProjectTemplatePepServerNegocio\\ProjectTemplatePepServerNegocio.csproj": {
+                "projectPath": "C:\\Users\\cristiano.santos\\source\\repos\\ProjectTemplatePEP\\ProjectTemplatePepServerNegocio\\ProjectTemplatePepServerNegocio.csproj"
+              },
+              "C:\\Users\\cristiano.santos\\source\\repos\\ProjectTemplatePEP\\ProjectTemplatePepServer\\ProjectTemplatePepServer.csproj": {
+                "projectPath": "C:\\Users\\cristiano.santos\\source\\repos\\ProjectTemplatePEP\\ProjectTemplatePepServer\\ProjectTemplatePepServer.csproj"
+              },
+              "C:\\Users\\cristiano.santos\\source\\repos\\ProjectTemplatePEP\\ProjectTemplatePepTesteUnitario\\ProjectTemplatePepTesteUnitario.csproj": {
+                "projectPath": "C:\\Users\\cristiano.santos\\source\\repos\\ProjectTemplatePEP\\ProjectTemplatePepTesteUnitario\\ProjectTemplatePepTesteUnitario.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.VSSDK.BuildTools": {
+              "target": "Package",
+              "version": "[17.4.2119, )"
+            },
+            "Microsoft.VisualStudio.SDK": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[17.0.32112.339, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\cristiano.santos\\source\\repos\\ProjectTemplatePEP\\ProjectTemplatePepApi\\ProjectTemplatePepApi.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cristiano.santos\\source\\repos\\ProjectTemplatePEP\\ProjectTemplatePepApi\\ProjectTemplatePepApi.csproj",
+        "projectName": "ProjectTemplatePepApi",
+        "projectPath": "C:\\Users\\cristiano.santos\\source\\repos\\ProjectTemplatePEP\\ProjectTemplatePepApi\\ProjectTemplatePepApi.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\cristiano.santos\\source\\repos\\ProjectTemplatePEP\\ProjectTemplatePepIService\\ProjectTemplatePepIService.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cristiano.santos\\source\\repos\\ProjectTemplatePEP\\ProjectTemplatePepIService\\ProjectTemplatePepIService.csproj",
+        "projectName": "ProjectTemplatePepIService",
+        "projectPath": "C:\\Users\\cristiano.santos\\source\\repos\\ProjectTemplatePEP\\ProjectTemplatePepIService\\ProjectTemplatePepIService.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\cristiano.santos\\source\\repos\\ProjectTemplatePEP\\ProjectTemplatePepServerNegocio\\ProjectTemplatePepServerNegocio.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cristiano.santos\\source\\repos\\ProjectTemplatePEP\\ProjectTemplatePepServerNegocio\\ProjectTemplatePepServerNegocio.csproj",
+        "projectName": "ProjectTemplatePepServerNegocio",
+        "projectPath": "C:\\Users\\cristiano.santos\\source\\repos\\ProjectTemplatePEP\\ProjectTemplatePepServerNegocio\\ProjectTemplatePepServerNegocio.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\cristiano.santos\\source\\repos\\ProjectTemplatePEP\\ProjectTemplatePepServer\\ProjectTemplatePepServer.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cristiano.santos\\source\\repos\\ProjectTemplatePEP\\ProjectTemplatePepServer\\ProjectTemplatePepServer.csproj",
+        "projectName": "ProjectTemplatePepServer",
+        "projectPath": "C:\\Users\\cristiano.santos\\source\\repos\\ProjectTemplatePEP\\ProjectTemplatePepServer\\ProjectTemplatePepServer.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\cristiano.santos\\source\\repos\\ProjectTemplatePEP\\ProjectTemplatePepTesteUnitario\\ProjectTemplatePepTesteUnitario.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cristiano.santos\\source\\repos\\ProjectTemplatePEP\\ProjectTemplatePepTesteUnitario\\ProjectTemplatePepTesteUnitario.csproj",
+        "projectName": "ProjectTemplatePepTesteUnitario",
+        "projectPath": "C:\\Users\\cristiano.santos\\source\\repos\\ProjectTemplatePEP\\ProjectTemplatePepTesteUnitario\\ProjectTemplatePepTesteUnitario.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}
